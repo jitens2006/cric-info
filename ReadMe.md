@@ -66,7 +66,7 @@ To view and query the database you can browse to ``` http://localhost:8090/h2-co
 ### Screenshots 
 
 ###### Swagger
-<img src="images/Swagger.png" width ="700">
+<img src="Images/Swagger.png" width ="700">
 
 ###### H2 DB
 <img src="Images/DB.png" width ="700">
