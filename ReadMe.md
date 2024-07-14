@@ -1,6 +1,6 @@
-# REST CRUD API for Player Information, 
+# REST CRUD API for Player Stats Information 
 
-* The API is a sample API for managing Player related Information. 
+* The API is a sample API for managing Player stats(Wickets,Runs etc.) related Information.  
 
 # API Endpoints
 The app defines following CRUD APIs.
@@ -58,6 +58,31 @@ To view and query the database you can browse to ``` http://localhost:8090/h2-co
 
 
 * Logback Configuration to Console
+
+* Apache Logs for ELK consumption
+
+* ELK Dashboards
+
+### Screenshots 
+
+###### Swagger
+<img src="images/Swagger.png" width ="700">
+
+###### H2 DB
+<img src="images/DB.png" width ="700">
+
+###### Sample Kibana Dashboard
+<img src="images/Kibana.png" width ="700">
+
+###### Actuator
+<img src="images/Actuator.png" width ="700">
+
+###### TestCases
+<img src="images/TestCases.png" width ="500">
+
+
+###### Insomnia Collection for Testing API(s)
+<img src="images/InsomniaCollection.png" width ="700">
 
 
 
